@@ -39,10 +39,4 @@ A ideia é consolidar os fundamentos da programação em C através de exemplos 
 - Compilador recomendado: **GCC**  
 - Ambiente sugerido: qualquer IDE ou terminal compatível com C (ex: Code::Blocks, VSCode, Dev-C++)
 
----
 
-## 📌 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
